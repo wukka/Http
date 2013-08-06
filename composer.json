@@ -7,8 +7,7 @@
         {"name": "John Loehrer", "email": "72squared@gmail.com"}
     ],
     "require": {
-        "php": ">=5.3.0",
-        "wukka/exception": "dev-master"
+        "php": ">=5.3.0"
     },
     "require-dev": {
         "wukka/test": "dev-master"
