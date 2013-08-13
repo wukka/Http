@@ -13,6 +13,6 @@
         "wukka/test": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Wukka\\HTTP": "lib/" }
+        "psr-0": { "Wukka\\Http": "lib/" }
     }
 }
